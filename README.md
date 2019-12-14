@@ -19,7 +19,18 @@ To analyze data on student funding and standardized test scores, where the analy
   - Group scores by school type
 
 ### Summary
-The analysis of the School District Summary, School Summary, and additional requirements can be seen at PyCitySchool.ipynb
+The analysis of the School District Summary, School Summary, and additional requirements can be seen at PyCitySchool.ipynb. Attached is a link to the results.
 https://github.com/hillarykrumbholz/School_District_Analysis/blob/master/Results%20for%20District%20Analysis.docx
+
+### Challenge
+It was noticed that the math and reading scores for the 9th grade class at Thomas High School were incorrect, so their scores were removed from the analysis without removing the students themselves.
+
+### Challenge Objectives
+- Filter DataFrames using logical operators.
+- Replace incorrect values with NaN.
+- Explain how your PyCitySchoools analysis changes after you handle the incorrect data. 
+
+### Summary
+The analysis of the School District Summary, School Summary, and additional requirements can be seen at PyCitySchoolChallenge.ipynb. Attached is a link to the results, and a written report of how the analysis changed after replacing the scores of the 9th grade class at Thomas High School.
 
 
