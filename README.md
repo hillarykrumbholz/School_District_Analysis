@@ -31,7 +31,7 @@ It was noticed that the math and reading scores for the 9th grade class at Thoma
 - Explain how your PyCitySchoools analysis changes after you handle the incorrect data. 
 
 ### Summary
-The analysis of the School District Summary, School Summary, and additional requirements can be seen at PyCitySchoolChallenge.ipynb. Attached is a link to the results, and a written report of how the analysis changed after replacing the scores of the 9th grade class at Thomas High School.
+The analysis of the School District Summary, School Summary, and additional requirements can be seen at PyCitySchools_Challenge.ipynb. Attached is a link to the results, and a written report of how the analysis changed after replacing the scores of the 9th grade class at Thomas High School.
 https://github.com/hillarykrumbholz/School_District_Analysis/blob/master/Final%20District%20Analysis.docx
 
 
