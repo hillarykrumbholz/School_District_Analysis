@@ -20,6 +20,6 @@ To analyze data on student funding and standardized test scores, where the analy
 
 ### Summary
 The analysis of the School District Summary, School Summary, and additional requirements can be seen at PyCitySchool.ipynb
-
+https://github.com/hillarykrumbholz/School_District_Analysis/blob/master/Results%20for%20District%20Analysis.docx
 
 
